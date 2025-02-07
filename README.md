@@ -90,3 +90,5 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/your-repo/local-volunteering-platform.git
 cd local-volunteering-platform
+```
+# Thank you
