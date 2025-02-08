@@ -1,7 +1,9 @@
 import './App.css'
 
 function App() {
-   return (
+  const [count, setCount] = useState(0)
+
+  return (
     <>
       <h1>Hello Akashine!</h1>
     </>
