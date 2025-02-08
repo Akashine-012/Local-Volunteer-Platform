@@ -1,11 +1,9 @@
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-
-  return (
+    return (
     <>
-      <h1>Hello Akashine!</h1>
+      <h1>Hi Akashine!</h1>
     </>
   )
 }
